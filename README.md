@@ -2,7 +2,7 @@
 
 ### Hello, World 👋
 
-- 👋 Hi, I’m Instant noodles🍜
+- 👋 Hi, I’m Instant Potato🥔
 - 👀 I’m interested in Golang, PHP
 - 🌱 I’m currently learning Cpp, C
 - 💞️ I am looking for a job
