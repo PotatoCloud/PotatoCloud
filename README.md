@@ -2,7 +2,7 @@
 
 ### hey, folks👋
 
-- 👋 Hi, I’m Potato🥔
+- 🖖 Hi, I’m Potato🥔
 - 🌱 I’m currently learning<img src="https://pbs.twimg.com/profile_images/554798224154701824/mWd3laxO_400x400.png" width="3.5%" height="auto">
 - 📫 You can contact me on GitHub
 
