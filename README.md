@@ -19,6 +19,10 @@ a "high-performance" websocket implementation based on panjf2000/gnet and gobwas
 #### [itrans.app](https://itrans.app)
 Provide a supportive and robust online community for transgender individuals.
 
+### Latest
+- I am preparing to take the college entrance exam
+
+
 ------
 
 _Unfortunately, I am currently not employed. If you are interested in me, please contact me through X._
