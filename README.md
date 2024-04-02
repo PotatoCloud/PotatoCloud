@@ -5,6 +5,8 @@
 - 🖖 Hi, I’m Potato🥔
 - 📚 I’m currently learning golang, typescript and rust<img style="display: flex; align-items: center;" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="3.5%" height="auto">
 - 📫 You can contact me on GitHub
+- 👩 Please call me she/her
+- 👩‍🎓 I am currently a high school student
 
 `Live long and prosper`
 
