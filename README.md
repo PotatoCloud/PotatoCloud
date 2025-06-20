@@ -22,6 +22,3 @@ a "high-performance" websocket implementation based on panjf2000/gnet and gobwas
 Advanced Cryptocurrency Payment Solutions.
 
 
-------
-
-_Unfortunately, I am currently not employed. If you are interested in me, please contact me through X._
