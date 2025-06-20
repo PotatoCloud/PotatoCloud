@@ -3,10 +3,10 @@
 ### hey, folks👋
 
 - 🖖 Hi, I’m Potato🥔
-- 📚 I’m currently learning golang, typescript and rust<img style="display: flex; align-items: center;" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="3.5%" height="auto">
+- 📚 I am currently learning Rust programing language and Solana network
 - 📫 You can contact me on GitHub
 - 👩 Please call me she/her
-- 👩‍🎓 I am currently a high school student
+- 🛸 I am web3 developers
 
 `Live long and prosper`
 
@@ -18,11 +18,8 @@ Reliable distributed key-value store, and provides some advanced functions inter
 #### [Peregrine](https://github.com/RealFax/peregrine)
 a "high-performance" websocket implementation based on panjf2000/gnet and gobwas/ws, providing low-level API
 
-#### [itrans.app](https://itrans.app)
-Provide a supportive and robust online community for transgender individuals.
-
-### Latest
-- I am preparing to take the college entrance exam
+#### [SwiftPay.life](https://swiftpay.life)
+Advanced Cryptocurrency Payment Solutions.
 
 
 ------
