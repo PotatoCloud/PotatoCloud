@@ -15,10 +15,8 @@
 #### [RedQueen](https://github.com/RealFax/RedQueen)
 Reliable distributed key-value store, and provides some advanced functions internal
 
-#### [Peregrine](https://github.com/RealFax/peregrine)
-a "high-performance" websocket implementation based on panjf2000/gnet and gobwas/ws, providing low-level API
-
 #### [SwiftPay.life](https://swiftpay.life)
 Advanced Cryptocurrency Payment Solutions.
 
-
+#### [MetaFlux Exchange](https://app.mtf.exchange)
+Leading Multi-chain Decentralized Exchange.
