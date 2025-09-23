@@ -4,9 +4,9 @@
 
 - 🖖 Hi, I’m Potato🥔
 - 📚 I am currently learning Rust programing language and Solana network
-- 📫 You can contact me on GitHub
+- 📫 You can contact me on GitHub or E-mail
 - 👩 Please call me she/her
-- 🛸 I am web3 developers
+- 🛸 I am web3 full stack developers
 
 `Live long and prosper`
 
