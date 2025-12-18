@@ -18,5 +18,5 @@ Reliable distributed key-value store, and provides some advanced functions inter
 #### [SwiftPay.life](https://swiftpay.life)
 Advanced Cryptocurrency Payment Solutions.
 
-#### [MetaFlux Exchange](https://app.mtf.exchange)
+#### [MetaFlux Exchange](https://mtf.exchange)
 Leading Multi-chain Decentralized Exchange.
